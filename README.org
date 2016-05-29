@@ -1,0 +1,3 @@
+* cat.jl -- Crosscat in Julia
+
+See http://probcomp.csail.mit.edu/crosscat/ for details
